@@ -27,3 +27,6 @@ To run this project locally, follow the steps below:
    ```bash
    git clone https://github.com/sabnamjeny/healthcare-Inside-project.git
    cd healthcare-Inside-project
+=======
+# Healthcare-Insight-Project
+

@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                # Healthcare Insights Dashboard
+# Healthcare Insights Dashboard
 
 ## Project Overview:
 The *Healthcare Insights Dashboard* is an interactive web application built using **Streamlit**, **Python**, and **Pandas**. The goal of this project is to provide insights into patient demographics, treatment patterns, and healthcare facility utilization to improve decision-making in healthcare.
@@ -31,4 +29,4 @@ To run this project locally, follow the steps below:
    cd healthcare-Inside-project
 =======
 # Healthcare-Insight-Project
->>>>>>> b4877190f6caf83ac3a7843c2bed3e962ca0790a
+
