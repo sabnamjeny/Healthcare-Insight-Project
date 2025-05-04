@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import sqlite3
 
 # Database connection
-conn = sqlite3.connect('your_database.db')
+conn = sqlite3.connect('healthcare.db')
 cursor = conn.cursor()
 
 st.title("Healthcare Insights Dashboard")

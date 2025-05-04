@@ -2,9 +2,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import sqlite3
+import warnings
+warnings.filterwarnings("ignore")
 
 # Database connection
-conn = sqlite3.connect('your_database.db')
+conn = sqlite3.connect('healthcare.db')
 cursor = conn.cursor()
 
 st.title("Healthcare Insights Dashboard")
