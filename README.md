@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 # Healthcare Insights Dashboard
 
@@ -28,3 +29,6 @@ To run this project locally, follow the steps below:
    ```bash
    git clone https://github.com/sabnamjeny/healthcare-Inside-project.git
    cd healthcare-Inside-project
+=======
+# Healthcare-Insight-Project
+>>>>>>> b4877190f6caf83ac3a7843c2bed3e962ca0790a
